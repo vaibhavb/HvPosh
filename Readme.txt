@@ -3,6 +3,8 @@ HealthVaul Powershell (HvPosh)
 
 HvPosh is a powershell module which enables a user to interact with HealthVault using powershell.
 
+Update:1/25/2014 - Please report bugs, a next rev is in works.
+
 Installing the module
 ----------------------
 Please note: This powershell module work with Powershell 2.0. Powershell 2.0 is installed by default on Windows 7, Windows Server 2008 and up.
